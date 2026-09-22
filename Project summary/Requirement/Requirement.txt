@@ -1,0 +1,16 @@
+Project Code: 10281
+
+Project Name:
+Employee Performance Analysis – INX Future Inc
+
+Objective:
+The objective of this project is to analyze employee
+performance data and identify key factors affecting
+employee performance.
+
+Tasks:
+
+1. Department-wise performance analysis
+2. Identify factors affecting performance
+3. Build prediction model using Machine Learning
+4. Provide business recommendations

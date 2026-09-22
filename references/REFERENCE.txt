@@ -1,0 +1,70 @@
+Employee Performance Prediction Project
+References
+
+1. Python Programming Language
+   https://www.python.org/
+
+2. Pandas Documentation
+   https://pandas.pydata.org/docs/
+
+3. NumPy Documentation
+   https://numpy.org/doc/
+
+4. Scikit-learn Documentation
+   https://scikit-learn.org/stable/
+
+5. Matplotlib Documentation
+   https://matplotlib.org/stable/index.html
+
+6. Seaborn Documentation
+   https://seaborn.pydata.org/
+
+7. Joblib Documentation (Model Saving & Loading)
+   https://joblib.readthedocs.io/
+
+8. Machine Learning Concepts
+   - Supervised Learning
+   - Classification Algorithms
+   - Random Forest Classifier
+   - Train-Test Split
+   - Model Evaluation Metrics
+
+9. Dataset Source
+   Employee Performance Prediction Project
+References
+
+1. Python Programming Language
+   https://www.python.org/
+
+2. Pandas Documentation
+   https://pandas.pydata.org/docs/
+
+3. NumPy Documentation
+   https://numpy.org/doc/
+
+4. Scikit-learn Documentation
+   https://scikit-learn.org/stable/
+
+5. Matplotlib Documentation
+   https://matplotlib.org/stable/index.html
+
+6. Seaborn Documentation
+   https://seaborn.pydata.org/
+
+7. Joblib Documentation (Model Saving & Loading)
+   https://joblib.readthedocs.io/
+
+8. Machine Learning Concepts
+   - Supervised Learning
+   - Classification Algorithms
+   - Random Forest Classifier
+   - Train-Test Split
+   - Model Evaluation Metrics
+
+9. Dataset Source
+  The employee performance date of INX Future Inc. http://data.iabac.org/exam/p2/data/INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8 .xls 
+
+
+10. Research References
+   - Employee Performance Analysis using Machine Learning
+   
