@@ -84,22 +84,14 @@ Random Forest Classifier was selected as the champion model because of its abili
 
 
 
-\### Performance Comparison (Before vs After SMOTE):
-
-
+### Performance Comparison (Before vs After SMOTE):
 
 | Metric | Before SMOTE | After SMOTE | Impact |
-
 | :--- | :--- | :--- | :--- |
-
 | Accuracy | 84.0% | 85.0% | Slightly Improved |
-
 | Macro Precision | 0.94 | 0.78 | Balanced across classes |
-
 | Macro Recall | 0.54 | 0.69 | +15% Boost in minority detection |
-
 | Macro F1-Score | 0.61 | 0.72 | Significant overall improvement |
-
 | Weighted F1-Score | 0.80 | 0.84 | Robust generalization |
 
 
